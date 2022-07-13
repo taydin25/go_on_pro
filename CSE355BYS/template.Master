@@ -1,0 +1,57 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="template.master.cs" Inherits="GoOn.template" %>
+
+<!DOCTYPE html>
+
+<html>
+    <head>
+<title>GoOn Yönetim Sistemi</title>
+          
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<style type="text/css" media="all">
+@import "images/style.css";
+    .auto-style1 {
+        color: #808080;
+    }body {background-color: gray;} 
+</style>
+</head>
+<body>
+    <form id="form1" runat="server">
+<div class="content">
+  <div id="top">
+  </div>
+  <div id="header">
+    <div class="f_search">
+       &nbsp;<img src="\images\goon.jpg"  class="rounded-circle" height="150" width="150" /></div>
+    <div class="title">
+      <h1>GoOn Company</h1>
+    </div>
+  </div>
+  <div id="subheader">
+    <div id="menu">
+      <ul>
+        <li><a href="default.aspx">Home</a></li>
+          <li><a href="Workers.aspx">Çalışanlar</a></li>
+          <li><a href="cihazlar.aspx">Cihazlar</a></li>
+          <li><a href="isler.aspx">İşler</a></li>
+          <li><a href="Alloftrans.aspx">Kayıtlar</a></li>
+      </ul>
+    </div>
+  </div>
+  <div id="main">
+    <div class="right_side">
+      <div class="nav">
+      </div>
+    </div>
+    <div class="left_side">
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+      <br />
+    </div>
+  </div>
+  <div id="footer">Copyright © 2021 <img src="\images\arrow.gif"  class="rounded-circle"height="10" width="10" asp-append-version="true" />
+    <div class="padding">  </div>
+  </div>
+</div>
+    </form>
+</body>
+</html>

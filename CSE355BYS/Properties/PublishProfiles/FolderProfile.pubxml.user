@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>bin\app.publish\</_PublishTargetUrl>
+    <History>True|2021-07-16T22:05:56.4045319Z;True|2021-07-17T00:52:36.8267618+03:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/CSE355BYS.dll">
+      <publishTime>07/17/2021 00:52:36</publishTime>
+    </File>
+    <File Include="bin/CSE355BYS.pdb">
+      <publishTime>07/17/2021 00:52:36</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>12/13/2016 02:10:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="Cihazlar.aspx">
+      <publishTime>07/16/2021 22:44:21</publishTime>
+    </File>
+    <File Include="default.aspx">
+      <publishTime>07/16/2021 22:18:40</publishTime>
+    </File>
+    <File Include="images/arrow.gif">
+      <publishTime>12/12/2018 12:45:14</publishTime>
+    </File>
+    <File Include="images/bg.jpg">
+      <publishTime>12/12/2018 12:45:14</publishTime>
+    </File>
+    <File Include="images/comment.gif">
+      <publishTime>12/12/2018 12:45:14</publishTime>
+    </File>
+    <File Include="images/footer.jpg">
+      <publishTime>12/12/2018 12:45:14</publishTime>
+    </File>
+    <File Include="images/h.gif">
+      <publishTime>12/12/2018 12:45:14</publishTime>
+    </File>
+    <File Include="images/h3.jpg">
+      <publishTime>12/12/2018 12:45:14</publishTime>
+    </File>
+    <File Include="images/header.jpg">
+      <publishTime>01/13/2021 19:03:41</publishTime>
+    </File>
+    <File Include="images/img.jpg">
+      <publishTime>12/12/2018 12:45:14</publishTime>
+    </File>
+    <File Include="images/img2.jpg">
+      <publishTime>12/12/2018 12:45:14</publishTime>
+    </File>
+    <File Include="images/li.png">
+      <publishTime>12/12/2018 12:45:14</publishTime>
+    </File>
+    <File Include="images/mainbg.jpg">
+      <publishTime>12/12/2018 12:45:14</publishTime>
+    </File>
+    <File Include="images/more.gif">
+      <publishTime>12/12/2018 12:45:14</publishTime>
+    </File>
+    <File Include="images/style.css">
+      <publishTime>07/17/2021 00:00:12</publishTime>
+    </File>
+    <File Include="images/timeicon.gif">
+      <publishTime>12/12/2018 12:45:14</publishTime>
+    </File>
+    <File Include="images/top.jpg">
+      <publishTime>12/12/2018 12:45:14</publishTime>
+    </File>
+    <File Include="Isler.aspx">
+      <publishTime>07/16/2021 22:51:04</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>12/12/2018 12:36:46</publishTime>
+    </File>
+    <File Include="template.Master">
+      <publishTime>07/16/2021 23:57:05</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/17/2021 00:29:44</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
